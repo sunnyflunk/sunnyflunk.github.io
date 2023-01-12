@@ -1,6 +1,6 @@
 author: sunnyflunk
-description: Running some tests on what takes my fancy
+description: data focused analysis
 remote_theme: pages-themes/slate@v0.2.0
-title: Experiments in Linux Performance
+title: Experiments in Performance
 plugins:
 - jekyll-remote-theme
