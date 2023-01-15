@@ -1,6 +1,6 @@
 ---
 title: "x86-64-v3: Mixed Bag of Performance"
-date: 2023-01-16
+date: 2023-01-15
 ---
 
 # x86-64-v3: Mixed Bag of Performance
@@ -187,7 +187,7 @@ where software doesn't see much benefit from these newer instructions, we are of
 higher power consumption. This makes it a complex question over whether it's worthwhile to build every package with
 greater optimizations.
 
-![Results](https://raw.githubusercontent.com/sunnyflunk/sunnyflunk.github.io/main/_posts/img/20230116.png "Results")
+![Results](https://raw.githubusercontent.com/sunnyflunk/sunnyflunk.github.io/main/_posts/img/20230115.png "Results")
 
 This graph shows that overall the winners were bigger than the regressions. However, this post was intended to be more
 about `x86-64-v3`, but some quick tests (which requires further analysis) suggest that CachyOS using `-O3` is what's
