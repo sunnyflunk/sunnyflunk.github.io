@@ -3,4 +3,5 @@ description: Distribution focused analysis
 remote_theme: pages-themes/slate@v0.2.0
 title: Experiments in Performance
 plugins:
+- jekyll-feed
 - jekyll-remote-theme
